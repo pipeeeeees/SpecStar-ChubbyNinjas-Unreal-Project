@@ -1753,3 +1753,159 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.04-22.39.38:465][976]LogSlate: Window 'Editor Preferences' being destroyed
 [2022.08.04-22.40.09:457][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
 [2022.08.04-22.40.09:459][610]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.012
+[2022.08.04-22.44.02:225][751]Cmd: ipconfig
+[2022.08.04-22.44.13:742][586]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.08.04-22.44.13:742][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-22.44.35:204][231]LogViewport: Scene viewport resized to 1014x376, mode Windowed.
+[2022.08.04-22.44.37:406][303]LogViewport: Scene viewport resized to 2038x820, mode Windowed.
+[2022.08.04-22.44.41:693][731]LogViewport: Scene viewport resized to 1014x376, mode Windowed.
+[2022.08.04-22.44.42:544][731]LogViewport: Scene viewport resized to 2038x820, mode Windowed.
+[2022.08.04-22.46.20:279][643]LogTurnkeySupport: Display: Adding device menu item for DPIPES-DESKTOP
+[2022.08.04-22.46.20:279][643]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/SpecStarChubbyNinjas.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Intermediate/TurnkeyReport_1.log" -log="C:/Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Intermediate/TurnkeyLog_1.log" -project="C:/Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/SpecStarChubbyNinjas.uproject"  -Device=Win64@DPIPES-DESKTOP'
+[2022.08.04-22.46.20:280][643]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/SpecStarChubbyNinjas.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Intermediate/TurnkeyReport_1.log" -log="C:/Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Intermediate/TurnkeyLog_1.log" -project="C:/Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/SpecStarChubbyNinjas.uproject"  -Device=Win64@DPIPES-DESKTOP" -nocompile ]
+[2022.08.04-22.46.21:189][729]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.08.04-22.46.21:189][729]LogTurnkeySupport: Turnkey Device: Win64@DPIPES-DESKTOP: (Name=DPIPES-DESKTOP, Status=Valid, Installed=10.0.19044.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.08.04-22.50.09:858][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.08.04-22.50.09:873][359]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2022.08.04-22.57.06:969][610]LogDerivedDataCache: C:/Users/pipee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.031 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.04-23.00.10:522][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.08.04-23.00.10:523][159]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2022.08.04-23.09.55:212][175]LogSlate: Window 'Source Control Login' being destroyed
+[2022.08.04-23.10.21:257][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.04-23.10.21:259][453]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.011
+[2022.08.04-23.20.21:839][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.08.04-23.20.21:841][944]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.012
+[2022.08.04-23.30.22:507][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.04-23.30.22:508][725]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.011
+[2022.08.04-23.40.23:037][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.04-23.40.23:038][526]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.011
+[2022.08.04-23.46.53:510][290]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.08.04-23.46.55:843][516]LogViewport: Scene viewport resized to 2038x629, mode Windowed.
+[2022.08.04-23.46.57:775][704]LogViewport: Scene viewport resized to 2038x635, mode Windowed.
+[2022.08.04-23.46.57:862][706]LogViewport: Scene viewport resized to 2038x730, mode Windowed.
+[2022.08.04-23.46.57:908][708]LogViewport: Scene viewport resized to 2038x799, mode Windowed.
+[2022.08.04-23.46.57:951][710]LogViewport: Scene viewport resized to 2038x879, mode Windowed.
+[2022.08.04-23.46.58:026][712]LogViewport: Scene viewport resized to 2038x945, mode Windowed.
+[2022.08.04-23.46.58:101][714]LogViewport: Scene viewport resized to 2038x1004, mode Windowed.
+[2022.08.04-23.46.58:166][716]LogViewport: Scene viewport resized to 2038x1011, mode Windowed.
+[2022.08.04-23.46.58:211][718]LogViewport: Scene viewport resized to 2038x1020, mode Windowed.
+[2022.08.04-23.46.58:254][720]LogViewport: Scene viewport resized to 2038x1034, mode Windowed.
+[2022.08.04-23.46.58:294][722]LogViewport: Scene viewport resized to 2038x1046, mode Windowed.
+[2022.08.04-23.46.58:368][724]LogViewport: Scene viewport resized to 2038x1071, mode Windowed.
+[2022.08.04-23.46.58:413][726]LogViewport: Scene viewport resized to 2038x1082, mode Windowed.
+[2022.08.04-23.46.58:454][728]LogViewport: Scene viewport resized to 2038x1084, mode Windowed.
+[2022.08.04-23.46.58:661][750]LogViewport: Scene viewport resized to 2038x1083, mode Windowed.
+[2022.08.04-23.46.58:739][752]LogViewport: Scene viewport resized to 2038x1066, mode Windowed.
+[2022.08.04-23.46.58:786][754]LogViewport: Scene viewport resized to 2038x1051, mode Windowed.
+[2022.08.04-23.46.58:831][756]LogViewport: Scene viewport resized to 2038x1039, mode Windowed.
+[2022.08.04-23.46.58:875][758]LogViewport: Scene viewport resized to 2038x1035, mode Windowed.
+[2022.08.04-23.46.58:958][765]LogViewport: Scene viewport resized to 2038x1032, mode Windowed.
+[2022.08.04-23.46.59:001][767]LogViewport: Scene viewport resized to 2038x1027, mode Windowed.
+[2022.08.04-23.46.59:047][769]LogViewport: Scene viewport resized to 2038x1021, mode Windowed.
+[2022.08.04-23.46.59:091][771]LogViewport: Scene viewport resized to 2038x1011, mode Windowed.
+[2022.08.04-23.46.59:134][773]LogViewport: Scene viewport resized to 2038x996, mode Windowed.
+[2022.08.04-23.46.59:425][805]LogViewport: Scene viewport resized to 2038x995, mode Windowed.
+[2022.08.04-23.46.59:507][807]LogViewport: Scene viewport resized to 2038x1000, mode Windowed.
+[2022.08.04-23.46.59:626][818]LogViewport: Scene viewport resized to 2038x996, mode Windowed.
+[2022.08.04-23.46.59:670][820]LogViewport: Scene viewport resized to 2038x991, mode Windowed.
+[2022.08.04-23.46.59:717][822]LogViewport: Scene viewport resized to 2038x987, mode Windowed.
+[2022.08.04-23.46.59:842][834]LogViewport: Scene viewport resized to 2038x981, mode Windowed.
+[2022.08.04-23.50.23:667][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.08.04-23.50.23:670][631]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.012
+[2022.08.04-23.57.06:912][832]LogDerivedDataCache: C:/Users/pipee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.032 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.05-00.00.24:258][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.08.05-00.00.24:259][418]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.012
+[2022.08.05-00.10.24:929][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.08.05-00.10.24:930][205]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2022.08.05-00.20.25:446][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.05-00.20.25:447][993]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2022.08.05-00.30.25:879][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.08.05-00.30.25:880][781]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2022.08.05-00.40.26:395][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.08.05-00.40.26:396][569]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2022.08.05-00.50.26:928][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.08.05-00.50.26:929][357]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.011
+[2022.08.05-00.57.06:887][549]LogDerivedDataCache: C:/Users/pipee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.034 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.05-01.00.27:627][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.08.05-01.00.27:629][106]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.011
+[2022.08.05-01.02.50:495][532]LogViewport: Scene viewport resized to 1014x450, mode Windowed.
+[2022.08.05-01.05.15:512][ 47]LogViewport: Scene viewport resized to 2038x981, mode Windowed.
+[2022.08.05-01.05.18:960][391]Cmd: POLY SELECT MEMORY UNION
+[2022.08.05-01.06.34:977][132]Cmd: EDIT COPY
+[2022.08.05-01.06.35:202][154]Cmd: EDIT PASTE
+[2022.08.05-01.07.17:844][361]Cmd: TRANSACTION UNDO
+[2022.08.05-01.07.17:844][361]LogEditorTransaction: Undo Move Elements
+[2022.08.05-01.07.19:377][453]Cmd: EDIT COPY
+[2022.08.05-01.07.19:733][481]Cmd: EDIT PASTE
+[2022.08.05-01.07.40:247][518]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBCB7529F2901_2050162479.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2022.08.05-01.07.40:248][518]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBCB7529F2901_2050162479.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2022.08.05-01.09.09:950][495]Cmd: EDIT COPY
+[2022.08.05-01.09.10:211][521]Cmd: EDIT PASTE
+[2022.08.05-01.09.26:283][178]Cmd: TRANSACTION UNDO
+[2022.08.05-01.09.26:283][178]LogEditorTransaction: Undo Clicking on Elements
+[2022.08.05-01.09.27:083][209]Cmd: TRANSACTION UNDO
+[2022.08.05-01.09.27:083][209]LogEditorTransaction: Undo Clicking on Elements
+[2022.08.05-01.09.27:636][251]Cmd: TRANSACTION UNDO
+[2022.08.05-01.09.27:636][251]LogEditorTransaction: Undo Set Scale
+[2022.08.05-01.09.29:261][386]Cmd: EDIT COPY
+[2022.08.05-01.09.29:510][405]Cmd: EDIT PASTE
+[2022.08.05-01.09.33:281][775]Cmd: EDIT COPY
+[2022.08.05-01.09.33:494][799]Cmd: EDIT PASTE
+[2022.08.05-01.09.55:929][176]Cmd: EDIT COPY
+[2022.08.05-01.09.58:687][449]Cmd: EDIT PASTE
+[2022.08.05-01.10.25:644][235]Cmd: EDIT COPY
+[2022.08.05-01.10.25:932][252]Cmd: EDIT PASTE
+[2022.08.05-01.11.47:279][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.08.05-01.11.47:292][853]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6_Auto4
+[2022.08.05-01.11.47:293][853]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/NG2R9BPZVA7ZDN0Z4VSTG6_Auto4CE89E7B44F1252C7389B60A66ECCFDF8.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6_Auto4.uasset'
+[2022.08.05-01.11.47:296][853]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/OS/LGWLFKYBNK1YDG9TWVVNIF_Auto4
+[2022.08.05-01.11.47:296][853]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/LGWLFKYBNK1YDG9TWVVNIF_Auto4EE5410E7494C2E93FEC4AD80B2F5C909.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/OS/LGWLFKYBNK1YDG9TWVVNIF_Auto4.uasset'
+[2022.08.05-01.11.47:299][853]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/SL/00GB0QS0TFOQSVYTSX2PZC_Auto4
+[2022.08.05-01.11.47:299][853]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/00GB0QS0TFOQSVYTSX2PZC_Auto4E7C70B924CA7C40D25C430AE25A7C4D9.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/SL/00GB0QS0TFOQSVYTSX2PZC_Auto4.uasset'
+[2022.08.05-01.11.47:302][853]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/3S/NYWHD2SFN9I7U8FM2ZTCRT_Auto4
+[2022.08.05-01.11.47:302][853]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/NYWHD2SFN9I7U8FM2ZTCRT_Auto4BBEEB82047D92808CD913BA61C293AD6.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/3S/NYWHD2SFN9I7U8FM2ZTCRT_Auto4.uasset'
+[2022.08.05-01.11.47:306][853]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PN/NWTFSMAHP2YH6M2UIGGNS2_Auto4
+[2022.08.05-01.11.47:306][853]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/NWTFSMAHP2YH6M2UIGGNS2_Auto440A610B74F915F6D409DFFAAD5812F64.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PN/NWTFSMAHP2YH6M2UIGGNS2_Auto4.uasset'
+[2022.08.05-01.11.47:309][853]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/DS/KX3VVOR01D19LPLQIWKBTO_Auto4
+[2022.08.05-01.11.47:309][853]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/KX3VVOR01D19LPLQIWKBTO_Auto49B3F493147CF542B5C577689F4BBCC22.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/DS/KX3VVOR01D19LPLQIWKBTO_Auto4.uasset'
+[2022.08.05-01.11.47:312][853]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/99/XHZ40VA65P7FZW4D0OEZPV_Auto4
+[2022.08.05-01.11.47:312][853]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/XHZ40VA65P7FZW4D0OEZPV_Auto46D84BCCA43CB5ED9F5E4FEB36C99C122.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/99/XHZ40VA65P7FZW4D0OEZPV_Auto4.uasset'
+[2022.08.05-01.11.47:316][853]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Z2/EYDL4E40XBQC25MPJX65Q9_Auto4
+[2022.08.05-01.11.47:316][853]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/EYDL4E40XBQC25MPJX65Q9_Auto4DD71BD6846B73CF0F2AF7C99754846FE.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Z2/EYDL4E40XBQC25MPJX65Q9_Auto4.uasset'
+[2022.08.05-01.11.47:319][853]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/L9/6EQZMDVETBVNBRA19O1YRG_Auto4
+[2022.08.05-01.11.47:320][853]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/6EQZMDVETBVNBRA19O1YRG_Auto4724CFB68437A186EA748B09995E0A345.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/L9/6EQZMDVETBVNBRA19O1YRG_Auto4.uasset'
+[2022.08.05-01.11.47:323][853]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DZ/RL1JNSNL52CKTCK085WCB5_Auto4
+[2022.08.05-01.11.47:323][853]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/RL1JNSNL52CKTCK085WCB5_Auto4147256EF463B31727A7BA8B23B6BB06B.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DZ/RL1JNSNL52CKTCK085WCB5_Auto4.uasset'
+[2022.08.05-01.11.47:324][853]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.052
+[2022.08.05-01.11.47:324][853]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2022.08.05-01.16.58:454][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+[2022.08.05-01.16.58:456][ 44]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/NG2R9BPZVA7ZDN0Z4VSTG61715FC2E46AF4026611BCC92F6854F45.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2022.08.05-01.16.58:460][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/OS/LGWLFKYBNK1YDG9TWVVNIF
+[2022.08.05-01.16.58:462][ 44]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/LGWLFKYBNK1YDG9TWVVNIF24BDBCF54CDE1D3D6E1F41BE3829AC7F.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/OS/LGWLFKYBNK1YDG9TWVVNIF.uasset'
+[2022.08.05-01.16.58:465][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/SL/00GB0QS0TFOQSVYTSX2PZC
+[2022.08.05-01.16.58:467][ 44]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/00GB0QS0TFOQSVYTSX2PZC6A4915414B89255C46CADB853978CBA2.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/SL/00GB0QS0TFOQSVYTSX2PZC.uasset'
+[2022.08.05-01.16.58:470][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/3S/NYWHD2SFN9I7U8FM2ZTCRT
+[2022.08.05-01.16.58:470][ 44]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/NYWHD2SFN9I7U8FM2ZTCRT9575D4EE4328E3264F78549B3A301604.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/3S/NYWHD2SFN9I7U8FM2ZTCRT.uasset'
+[2022.08.05-01.16.58:473][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PN/NWTFSMAHP2YH6M2UIGGNS2
+[2022.08.05-01.16.58:474][ 44]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/NWTFSMAHP2YH6M2UIGGNS27B508E9E4154DB9E5171A881A2C36E73.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PN/NWTFSMAHP2YH6M2UIGGNS2.uasset'
+[2022.08.05-01.16.58:477][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/DS/KX3VVOR01D19LPLQIWKBTO
+[2022.08.05-01.16.58:477][ 44]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/KX3VVOR01D19LPLQIWKBTOBD22E72747D62A825AB70286A60DB5B9.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/DS/KX3VVOR01D19LPLQIWKBTO.uasset'
+[2022.08.05-01.16.58:479][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/99/XHZ40VA65P7FZW4D0OEZPV
+[2022.08.05-01.16.58:480][ 44]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/XHZ40VA65P7FZW4D0OEZPVBA655A8F4961EB8164D3D09DC9575B58.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/99/XHZ40VA65P7FZW4D0OEZPV.uasset'
+[2022.08.05-01.16.58:483][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Z2/EYDL4E40XBQC25MPJX65Q9
+[2022.08.05-01.16.58:483][ 44]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/EYDL4E40XBQC25MPJX65Q9EA8E2B1447175C02860F7F822F606872.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Z2/EYDL4E40XBQC25MPJX65Q9.uasset'
+[2022.08.05-01.16.58:486][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/L9/6EQZMDVETBVNBRA19O1YRG
+[2022.08.05-01.16.58:486][ 44]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/6EQZMDVETBVNBRA19O1YRGCED4C3244D8993E54079BFBA37C0FE1F.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/L9/6EQZMDVETBVNBRA19O1YRG.uasset'
+[2022.08.05-01.16.58:489][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DZ/RL1JNSNL52CKTCK085WCB5
+[2022.08.05-01.16.58:489][ 44]LogSavePackage: Moving '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Saved/RL1JNSNL52CKTCK085WCB5F1E9E48C4AA789AD41E0BCAC65F34CBF.tmp' to '../../../../../../Users/pipee/OneDrive/Documents/Unreal Projects/SpecStar-ChubbyNinjas-Unreal-Project/SpecStarChubbyNinjas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DZ/RL1JNSNL52CKTCK085WCB5.uasset'
+[2022.08.05-01.16.59:069][ 44]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-01.16.59:069][ 44]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBCB752A02901_1162619660
+[2022.08.05-01.16.59:069][ 44]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBCB752A02901_1135374659
+[2022.08.05-01.16.59:069][ 44]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBCB752A02901_1110182658
+[2022.08.05-01.16.59:069][ 44]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBCB752A02901_1106197657
+[2022.08.05-01.16.59:069][ 44]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBCB752A02901_1086899656
+[2022.08.05-01.16.59:069][ 44]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBCB7529F2901_2050162479
+[2022.08.05-01.16.59:069][ 44]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2022.08.05-01.16.59:069][ 44]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBCB752972901_1496133066
+[2022.08.05-01.16.59:069][ 44]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBCB752972901_1479541065
+[2022.08.05-01.16.59:069][ 44]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBCB7529F2901_2005632478
