@@ -1,5 +1,5 @@
-# Blender MTL File: 'Green Ninja.blend'
-# Material Count: 2
+# Blender MTL File: 'Green Ninja Edit 1.blend'
+# Material Count: 9
 
 newmtl DefaultSkin
 Ns 96.078431
@@ -11,12 +11,87 @@ Ni 1.000000
 d 1.000000
 illum 2
 
-newmtl Material
+newmtl Eye_brown
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Users\Cornell Onofre\Documents\makehuman\v1py3\exports\textures\brown_eye.png
+map_d C:\\Users\\Cornell Onofre\\Documents\\makehuman\\v1py3\\exports\\textures\\brown_eye.png
+
+newmtl Hair
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.792882 0.091548 0.351726
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.039636 0.039636 0.039636
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.006419 0.572555 0.013446
+Ks 0.036082 0.036082 0.036082
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd O:\Cosplay Folder\Extra Files\SpecStar-ChubbyNinjas-Unreal-Project\SpecStarChubbyNinjas\Content\Characters\Mannequins\Meshes\IMG_1954.jpg
+
+newmtl Material.001_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.006419 0.572555 0.013446
+Ks 0.036082 0.036082 0.036082
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.626830 0.620658 0.196961
+Ks 0.139175 0.139175 0.139175
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd O:\Cosplay Folder\Extra Files\SpecStar-ChubbyNinjas-Unreal-Project\SpecStarChubbyNinjas\Content\Characters\Mannequins\Meshes\IMG_1954.jpg
+
+newmtl Material.002_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.626830 0.620658 0.196961
+Ks 0.139175 0.139175 0.139175
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.285120 0.800000 0.309144
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd O:\Cosplay Folder\Extra Files\SpecStar-ChubbyNinjas-Unreal-Project\SpecStarChubbyNinjas\Content\Characters\Mannequins\Meshes\IMG_1954.jpg
